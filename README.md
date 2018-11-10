@@ -1,35 +1,23 @@
-﻿[![sites](docs/litelife.png)](http://www.litelife.cc)
+﻿# litelife:[PContro](https://github.com/litfe/PContro) 
+ 
+家庭计算应用
 
-# PControl
+[![sites](litelife/litelife.png)](http://www.litelife.cc)
 
-## 简介
-
-嵌入式设备相关的驱动和固件，用于控制设备的电气功能
-
----
-
-## 组成
-
-### 感知
-
-#### 温湿度
-
-SI7021传感器板，在进风和出风口各进行感知
-
-#### 粉尘
-
-进风口感知
-
-#### 噪音
-
-内噪音和外噪音
-
-#### 内气压
-
-用于衡量散热性能
+#### 更多关于：[litelife](https://github.com/litfe/litelife) 可访问 www.litelife.cc
 
 ---
 
-### 说明
+### 简介
 
-PCenter是一台个人中心服务器设备，用于个人和家庭的数字集中管理
+运行在嵌入式控制设备上，用于处理设备侧事件和通信控制任务
+
+---
+
+### 组成
+
+
+
+---
+
+##  www.litelife.cc   |   qitas@qitas.cn
