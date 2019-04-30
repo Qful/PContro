@@ -1,23 +1,15 @@
-﻿# litelife:[PContro](https://github.com/litfe/PContro) 
- 
-家庭计算应用
+﻿# [PContro ](https://github.com/Qful/PContro ) 
+[![sites](Qful/qitas.png)](http://www.Qful.net)
+### [Q简介](https://github.com/Qful/PContro ) 
 
-[![sites](litelife/litelife.png)](http://www.litelife.cc)
-
-#### 更多关于：[litelife](https://github.com/litfe/litelife) 可访问 www.litelife.cc
-
----
-
-### 简介
-
-运行在嵌入式控制设备上，用于处理设备侧事件和通信控制任务
-
----
-
-### 组成
+便携移动物联网控制终端，设备集成控制通信能力。
 
 
+### [Q资源](https://github.com/Qful/PContro )
 
----
+- [Q系统](https://github.com/OS-Q)
+- [Q硬件](https://github.com/sochub)
+- [Q智慧](https://github.com/tfzoo)
+- [Q品质](https://github.com/qitas)
 
-##  www.litelife.cc   |   qitas@qitas.cn
+### www.Qful.net
