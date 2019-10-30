@@ -1,15 +1,14 @@
-﻿# [PContro ](https://github.com/Qful/PContro ) 
+﻿# [PContro](https://github.com/Qful/PContro) 
 [![sites](Qful/qitas.png)](http://www.Qful.net)
-### [Q简介](https://github.com/Qful/PContro ) 
+### [PContro 简介](https://github.com/Qful/PContro ) 
 
-便携移动物联网控制终端，设备集成控制通信能力。
+数据网络终端控制器
 
-
-### [Q资源](https://github.com/Qful/PContro )
+### [Q组件](https://github.com/Qful)
 
 - [Q系统](https://github.com/OS-Q)
 - [Q硬件](https://github.com/sochub)
 - [Q智慧](https://github.com/tfzoo)
-- [Q品质](https://github.com/qitas)
+- [Q工具](https://github.com/qitas)
 
 ### www.Qful.net
